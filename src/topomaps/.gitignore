@@ -1,2 +1,15 @@
+#/*
+#!.gitignore
+
+# Ignore everything
 /*
+
+
+#Below is written by Meghana
+
+# Except this .gitignore file
 !.gitignore
+
+# Include the topomaps folder and all its contents
+!topomaps/
+!topomaps/**
